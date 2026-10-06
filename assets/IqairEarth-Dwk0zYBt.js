@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as s,r as o}from"./index-Cve81ns-.js";const n={setup(){return{iframeSource:o("https://www.iqair.cn/cn/earth")}}},i={class:"iframe-container"},_=["src"];function f(e,d,p,r,m,u){return t(),c("div",i,[s("iframe",{src:r.iframeSource,title:"IQAir 全球空气质量地图"},null,8,_)])}const h=a(n,[["render",f],["__scopeId","data-v-209bcba3"]]);export{h as default};

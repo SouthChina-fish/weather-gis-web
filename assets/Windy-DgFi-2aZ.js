@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as r}from"./index-Cve81ns-.js";const c={data(){return{iframeSource:"https://embed.windy.com/embed2.html?lat=23.1&lon=113.3&zoom=6&overlay=wind"}}},n=["src"];function s(a,i,m,d,e,_){return t(),r("iframe",{src:e.iframeSource,width:"100%",height:"100%"},null,8,n)}const f=o(c,[["render",s]]);export{f as default};
