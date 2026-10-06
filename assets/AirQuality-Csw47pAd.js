@@ -1,0 +1,1 @@
+import{_ as t,a as c,c as a,b as s,j as o}from"./index-DlKz8p3f.js";const n={setup(){return{iframeSource:o("https://air.cnemc.cn:18007/?zbb=true")}}},i={class:"iframe-container"},_=["src"];function f(e,u,d,r,m,p){return c(),a("div",i,[s("iframe",{src:r.iframeSource,title:"全国空气质量实时发布"},null,8,_)])}const b=t(n,[["render",f],["__scopeId","data-v-b4f19287"]]);export{b as default};

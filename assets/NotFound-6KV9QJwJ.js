@@ -1,0 +1,1 @@
+import{_ as o,a as t,c as r,b as n}from"./index-DlKz8p3f.js";const s={};function a(c,e){return t(),r("div",null,[...e[0]||(e[0]=[n("h1",null,"404 - 页面未找到",-1),n("p",null,"您访问的页面不存在。",-1)])])}const u=o(s,[["render",a]]);export{u as default};
